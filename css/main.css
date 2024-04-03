@@ -1,0 +1,19 @@
+body {
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+.header_main {
+    display: flex;
+    justify-content: space-between;
+}
+
+    .header_right {
+        display: flex;
+        gap: 30px;
+    }
